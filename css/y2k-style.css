@@ -126,3 +126,13 @@ body {
   margin-right: 20px; /* Adds spacing to the right of the image */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Adds a shadow for a polished look */
 }
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4267B2; /* Facebook Blue */
+  color: white;
+  text-decoration: none;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+}
